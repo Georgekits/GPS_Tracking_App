@@ -1,0 +1,9 @@
+<resources>
+    <!--Application name-->
+    <string name="app_name">Google_Maps_Impl</string>
+    <!--Map Name-->
+    <string name="title_activity_maps">Map</string>
+    <!--activity_main string-->
+    <string name="edit_text_lablel">User ID</string>
+    <string name="button_label">Display</string>
+</resources>

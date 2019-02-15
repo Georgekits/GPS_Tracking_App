@@ -1,0 +1,7 @@
+<resources>
+    <!--Application Name-->
+    <string name="app_name">GPS_TRACK</string>
+    <!--activity_main strings-->
+    <string name="button_label">TRACK</string>
+    <string name="editText_placeholder">User ID</string>
+</resources>

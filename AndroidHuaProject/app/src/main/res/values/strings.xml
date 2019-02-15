@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">AndroidHuaProject</string>
+    <!--First Activity Layout-->
+    <string name="user_id">Place id</string>
+    <string name="longitude">Place longitude</string>
+    <string name="latitude">Place latitude</string>
+    <string name="dt">YYYY-MM-DD HH:MM:SS</string>
+    <string name="store">Store to DB</string>
+    <string name="second_activity">Proceed</string>
+    <string name="textView_label">Enter ID:</string>
+    <string name="longitude_label">Enter longitude:</string>
+    <string name="latitude_label">Enter latitude:</string>
+    <string name="dt_label">Enter timestamp:</string>
+    <string name="delete_label">Delete from DB</string>
+    <string name="delete_button_label">Delete</string>
+
+    <!--Second Activity Layout-->
+    <string name="user_id2">Place a user ID</string>
+    <string name="previous_activity">Back</string>
+    <string name="submit">Submit</string>
+
+    <!--Third Activity Layout-->
+    <string name="home_button">Home</string>
+</resources>
